@@ -10,7 +10,7 @@ A desktop application developed in **Python** using **Tkinter** for the graphica
 - **Loan Applications**: Apply for loans, with admin approval or rejection.
 - **Transaction History**: View detailed transaction records.
 - **Admin Dashboard**:
-  - Log in using predefined credentials (`username: Sagor`, `password: 1234`).
+  - Log in using predefined credentials (`username: admin`, `password: admin123`).
   - Manage user accounts, review transactions, and approve or reject loans.
 - **Automated Updates**: Account balances are updated automatically upon loan approval.
 - **Secure Access**: Password-protected user accounts and an admin login system to prevent unauthorized access.
