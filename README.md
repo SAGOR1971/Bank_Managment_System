@@ -70,10 +70,7 @@ Before running this application, ensure you have the following installed:
 - **Users**: Log in with a valid username and password to perform banking operations.
 - **Admin**: Log in with `username: Sagor` and `password: 1234` to access the admin dashboard.
 
-## Screenshots
 
-![Login Screen](screenshots/login_screen.png)
-![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ## Security Features
 
