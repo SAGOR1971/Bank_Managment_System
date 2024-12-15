@@ -101,5 +101,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or issues, feel free to reach out to:
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+- Email: sagorpal45@gmail.com
+- GitHub: [SAGOR1971](https://github.com/SAGOR1971)
